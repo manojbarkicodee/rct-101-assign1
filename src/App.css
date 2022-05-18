@@ -1,7 +1,9 @@
 .App {
-  text-align: center;
+  margin-left: 40%;
 }
-
+.list{
+  text-align:right;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
